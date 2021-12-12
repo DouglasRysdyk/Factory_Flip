@@ -1,0 +1,335 @@
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Blueprints/SideScrollerCharacter.uasset" 0
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 1
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 2
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 3
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 4
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 5
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 6
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 7
+"../../../Engine/Content/BasicShapes/Cone.uasset" 8
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 9
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 10
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 11
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 12
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 13
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 14
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 15
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 16
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 17
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 18
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 19
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 20
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 21
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 22
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 23
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 24
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 25
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 26
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 27
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 28
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 29
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 30
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 31
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 32
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 33
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 34
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 35
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 36
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 37
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 38
+"../../../Engine/Content/EditorResources/S_Note.uasset" 39
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 40
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 41
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 42
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 43
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 44
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 45
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 46
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 47
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 48
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 49
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 50
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 51
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 52
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 53
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 54
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 55
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 56
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 57
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 58
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 59
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 60
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 61
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 62
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 63
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 64
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 65
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 66
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 67
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 68
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 69
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 70
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 71
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 72
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 73
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 74
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 75
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 76
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 77
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 78
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 79
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 80
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 81
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 82
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 83
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 84
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 85
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 86
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 87
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 88
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 89
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 90
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 91
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 92
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 93
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 94
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 95
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 96
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 97
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 98
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 99
+"../../../Engine/Content/EngineResources/Black.uasset" 100
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 101
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 102
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 103
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 104
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 105
+"../../../Engine/Content/EngineSounds/Master.uasset" 106
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 107
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 108
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 109
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 110
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 111
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 112
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 113
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 114
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 115
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 116
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 117
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 118
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 119
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 120
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 121
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 122
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 123
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 124
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 125
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 126
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 127
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 128
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 129
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 130
+"../../../Engine/Content/Tutorial/Basics/ContentBrowserOverview.uasset" 131
+"../../../Engine/Content/Tutorial/Basics/FeaturePacks.uasset" 132
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 133
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 134
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 135
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/CameraActor_64x.uasset" 136
+"../../../Engine/Content/Tutorial/Basics/ViewportsTutorial.uasset" 137
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 138
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 139
+"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 140
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial.uasset" 141
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial_Part2.uasset" 142
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial_Part3.uasset" 143
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 144
+"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 145
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 146
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 147
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 148
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 149
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 150
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 151
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 152
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 153
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 154
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 155
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 156
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 157
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 158
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 159
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 160
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 161
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 162
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 163
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 164
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 165
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 166
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 167
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 168
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 169
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 170
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 171
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 172
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 173
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 174
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 175
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 176
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 177
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 178
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 179
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 180
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 181
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 182
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 183
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 184
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 185
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 186
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 187
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 188
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 189
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 190
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 191
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Other/Shield_Material.uasset" 192
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Other/PickUpShield_Material_Instance.uasset" 193
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 194
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Audio/Pick_Up_2_SFX.uasset" 195
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Blueprints/Character_Actors/PickUp.uasset" 196
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Blueprints/Infrastructure/MySaveGame.uasset" 197
+"../../../Engine/Content/EngineFonts/8bitOperatorPlus-Regular.uasset" 198
+"../../../Engine/Content/EngineFonts/8bitOperatorPlus-Regular_Font.uasset" 199
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Other/Factory_Flip_UI_Assets/Credits/Credits_Pg1_Main_Menu_Button.uasset" 200
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Other/Factory_Flip_UI_Assets/Credits/Credits_Pg1_SFX_Credits_Button.uasset" 201
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Other/Factory_Flip_UI_Assets/Credits/Credits_Pg2_Back_Button.uasset" 202
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Other/Factory_Flip_UI_Assets/Credits/Credits_Pg2_Font_License.uasset" 203
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Other/Factory_Flip_UI_Assets/Credits/Credits_Pg3_Back_Button.uasset" 204
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Other/Factory_Flip_UI_Assets/Credits/Credits_Pg3_Main_Menu_Button.uasset" 205
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Other/Factory_Flip_UI_Assets/Credits/Open_Font_License_Text.uasset" 206
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Other/Factory_Flip_UI_Assets/Factory_Flip_Quit_Button.uasset" 207
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Other/Factory_Flip_UI_Assets/Main_Menu/Factory_Flip_Credits_Button.uasset" 208
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Other/Factory_Flip_UI_Assets/Main_Menu/Factory_Flip_Play_Button.uasset" 209
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Other/Factory_Flip_UI_Assets/Main_Menu/Factory_Flip_Reset_Score_Button.uasset" 210
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Other/Factory_Flip_UI_Assets/Main_Menu/Factory_Flip_Title.uasset" 211
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Other/Factory_Flip_UI_Assets/Reset_Score_No_Button.uasset" 212
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Other/Factory_Flip_UI_Assets/Reset_Score_Yes_Button.uasset" 213
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Other/Factory_Flip_UI_Assets/Retry_Button.uasset" 214
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Other/Factory_Flip_UI_Assets/UI_Infrastructure/Factory_Flip_Button_Background.uasset" 215
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Other/Factory_Flip_UI_Assets/UI_Infrastructure/Factory_Flip_Button_Hover.uasset" 216
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Other/Factory_Flip_UI_Assets/UI_Infrastructure/Factory_Flip_Button_Pressed.uasset" 217
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Other/Factory_Flip_UI_Assets/UI_Infrastructure/Factory_Flip_Link_Hover.uasset" 218
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Other/Factory_Flip_UI_Assets/UI_Infrastructure/Factory_Flip_Link_Pressed.uasset" 219
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Other/Factory_Flip_UI_Assets/UI_Infrastructure/Factory_Flip_Main_Menu.uasset" 220
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Other/Factory_Flip_UI_Assets/UI_Infrastructure/Quit_Button_Hovered.uasset" 221
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Other/Factory_Flip_UI_Assets/UI_Infrastructure/Quit_Button_Pressed.uasset" 222
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Audio/Factory_Flip_Button_Click.uasset" 223
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Audio/Factory_Flip_Button_Click_Cue.uasset" 224
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Blueprints/GUI/Game_HUD.uasset" 225
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 226
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 227
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Death_Animation_Stuff/0_DotCircle_Mat.uasset" 228
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Death_Animation_Stuff/0_DotCircle_Mat_Inst.uasset" 229
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SmoothStep.uasset" 230
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Death_Animation_Stuff/0_6_smoke_re_vg.uasset" 231
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Death_Animation_Stuff/blackbody_exp_Mat.uasset" 232
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Death_Animation_Stuff/blowingFire_fwd2.uasset" 233
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Death_Animation_Stuff/blackbody_exp_Mat_Inst2.uasset" 234
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Death_Animation_Stuff/Death_Explosion.uasset" 235
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Audio/Explosion_Death_Final_SFX.uasset" 236
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Blueprints/Infrastructure/SideScrollerGameMode.uasset" 237
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Textures/eyes_blue.uasset" 238
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Materials/ball_bot_blue.uasset" 239
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Textures/eyes_orange.uasset" 240
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Materials/ball_bot_orange.uasset" 241
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Other/Shield_Material_Instance.uasset" 242
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Materials/grey_1_002.uasset" 243
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Meshes/Robot2/ball_bot.uasset" 244
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Audio/Flip_SFX.uasset" 245
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Blueprints/Character_Actors/SideScrollerCharacter.uasset" 246
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Materials/grey_1.uasset" 247
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Meshes/background_Plane_001.uasset" 248
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Blueprints/Background_Actors/Background_Window1.uasset" 249
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Textures/night_sky.uasset" 250
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Materials/night_sky_Mat.uasset" 251
+"../../../Engine/Content/BasicShapes/Plane.uasset" 252
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Materials/purple.uasset" 253
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Meshes/background_Plane_002.uasset" 254
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Blueprints/Background_Actors/Background_Window2.uasset" 255
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Materials/black.uasset" 256
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Meshes/background_Plane_005.uasset" 257
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Blueprints/Background_Actors/Background_Window4.uasset" 258
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Meshes/background_Plane_006.uasset" 259
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Blueprints/Background_Actors/Background_Window5.uasset" 260
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Textures/red_wood_gradient.uasset" 261
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Materials/red.uasset" 262
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Meshes/background_Plane_003.uasset" 263
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Blueprints/Background_Actors/Background_Window6.uasset" 264
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Materials/grey_reverse_mat.uasset" 265
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Materials/invisible_backface.uasset" 266
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Materials/red_backface.uasset" 267
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Materials/red_reverse_mat.uasset" 268
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Meshes/air_duct.uasset" 269
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Blueprints/Background_Actors/BackgroundAirDuct.uasset" 270
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Materials/grey_mat.uasset" 271
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Materials/red_mat.uasset" 272
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Meshes/pipe_obstacle_-_pipe.uasset" 273
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Blueprints/Background_Actors/BackgroundPipe.uasset" 274
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Blueprints/Background_Actors/BackgroundObjectSpawner.uasset" 275
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Materials/grey_death.uasset" 276
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Meshes/Discarded_ball_bots/discarded_ball_bot.uasset" 277
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Blueprints/Background_Actors/Discarded_Ball_Bot.uasset" 278
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Materials/blue_ceiling_light.uasset" 279
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Meshes/background_environment_-_light_ceiling_001.uasset" 280
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Meshes/background_environment_-_light_ceiling_cage_001.uasset" 281
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Blueprints/Background_Actors/BackgroundLight.uasset" 282
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Blueprints/Background_Actors/LightObjectSpawner.uasset" 283
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Textures/factory_wall.uasset" 284
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Textures/wall_bump.uasset" 285
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Materials/wall_bump_Mat.uasset" 286
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Blueprints/Background_Actors/Test_Background.uasset" 287
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Meshes/crates_obstacle__-_crates.uasset" 288
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Blueprints/Obstacle_Actors/BottomObstacle-Crates.uasset" 289
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Materials/hazard_red.uasset" 290
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Materials/makeshiftoutline_mat.uasset" 291
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 292
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Meshes/hazard_lights_enemy_-_hazard_lights_001.uasset" 293
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Audio/Hazard_Lights_Final_Attenuation.uasset" 294
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Audio/Hazard_Lights_SFX_Final.uasset" 295
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Audio/Hazard_Lights_SFX_Final_Cue.uasset" 296
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Blueprints/Obstacle_Actors/BottomObstacle-HazardLight.uasset" 297
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Meshes/fan_eneemy_-_fan_blades.uasset" 298
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Meshes/fan_enemy_-_fan_axel.uasset" 299
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Meshes/fan_obstacle_-_fan__box_.uasset" 300
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Meshes/fan_obstacle_-_fan__outline_.uasset" 301
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Audio/Fan_Final_Attenuation.uasset" 302
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Audio/Fan_SFX_Final.uasset" 303
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Audio/Fan_SFX_Final_Cue.uasset" 304
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Blueprints/Obstacle_Actors/BottomObstacle-Large_Fan.uasset" 305
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Blueprints/Obstacle_Actors/BottomObstacle-Medium_Fan.uasset" 306
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Blueprints/Obstacle_Actors/BottomObstacle-Small_Fan.uasset" 307
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Meshes/background_environment_-_gear__secondary__001.uasset" 308
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Audio/Gear_Final_Attenuation.uasset" 309
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Audio/Gear_SFX_Final.uasset" 310
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Audio/Gear_SFX_Final_Cue.uasset" 311
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Blueprints/Obstacle_Actors/Obstacle-Giant_Gear.uasset" 312
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Blueprints/Obstacle_Actors/Obstacle-Large_Gear.uasset" 313
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Blueprints/Obstacle_Actors/Obstacle-Medium_Gear.uasset" 314
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Blueprints/Obstacle_Actors/Obstacle-Small_Gear.uasset" 315
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Blueprints/Obstacle_Actors/BottomObstacleSpawner.uasset" 316
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Blueprints/Obstacle_Actors/TopObstacle-HazardLight.uasset" 317
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Blueprints/Obstacle_Actors/TopObstacle-Large_Fan.uasset" 318
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Blueprints/Obstacle_Actors/TopObstacle-Medium_Fan.uasset" 319
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Blueprints/Obstacle_Actors/TopObstacle-Small_Fan.uasset" 320
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Blueprints/Obstacle_Actors/TopObstacleSpawner.uasset" 321
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Maps/SideScrollerExampleMap_BuiltData.uasset" 322
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Textures/new_blue_mtl.uasset" 323
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Materials/blue_mtl_Mat.uasset" 324
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Textures/new_orange_mtl.uasset" 325
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Materials/orange_mtl_Mat.uasset" 326
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/BlurSampleOffsets.uasset" 327
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/BitMask.uasset" 328
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Materials/Outline_Materials/Mat_Outlines.uasset" 329
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Art/Final_Art_Assets/Materials/Outline_Materials/Mat_Inst_Outlines.uasset" 330
+"../../../Engine/Content/BasicShapes/Cube.uasset" 331
+"../../../../../../Users/dougr/Documents/Unreal Projects/Project_Bucket/Content/ProjectBucketAssets/Maps/SideScrollerExampleMap.umap" 332
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 333
+"../../../Engine/Content/Maps/Entry.umap" 334

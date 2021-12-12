@@ -1,0 +1,2 @@
+- Factory Flip folder is the one I need to zip for people.  
+- WindowsNoEditor is the original packaged file, and should be considered a back up.  
